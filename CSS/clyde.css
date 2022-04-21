@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: lightslategray;
+}
+h1{
+    font-size: 50px;
+    color: navy;
+}
+p{
+    font-size: 30px;
+    color: black;
+
+}
+h2{
+    font-size: 60px;
+    color: red;
+}
+img{
+    transition: transform 1s ease-in-out;
+}
+img:hover{
+    transform: rotate(45deg);
+}
+.name{
+    font-size: 70px;
+    color: hotpink;
+}
