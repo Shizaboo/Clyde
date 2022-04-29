@@ -3,6 +3,8 @@ body{
     font-family: helvetica, arial, sans-serif;
     font-size: 20px;
     line-height: 30px;
+    text-align: center;
+    background-color: grey;
 }
 
 header{
@@ -14,6 +16,7 @@ header{
 
 h1, h2{
     font-family: 'Permanent Marker', cursive;
+    text-align: center;
 }
 
 header h1{
