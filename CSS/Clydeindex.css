@@ -44,6 +44,7 @@ main img{
 h2{
     font-size: 35px;
     color: whitesmoke;
+    margin: 40px 0 10px;
 }
 p{
     font-size: 20px;
@@ -51,6 +52,7 @@ p{
 }
 ol{
     color: honeydew;
+   
 }
 
 ul{
@@ -61,4 +63,11 @@ ul{
 footer{
 text-align: center;
 color: whitesmoke;
+}
+
+p.caption{
+    color: lightsteelblue;
+    font-style: italic;
+    margin-top: 0;
+    font-size: 15px;
 }
